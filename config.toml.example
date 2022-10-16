@@ -1,0 +1,11 @@
+[application]
+    name = "netflix-node-select"
+
+[clash]
+    subscription_url = "http://test.url.com"
+    node_url = ""
+    bearer = "123456"
+
+[netflix]
+    self_id = 123
+    third_id = 456
